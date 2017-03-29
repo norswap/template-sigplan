@@ -1,0 +1,14 @@
+/local/
+/auto/
+/latex.out
+/*.pdf
+*.aux
+*.blg
+*.bbl
+*.log
+*.out
+*.vtc
+*.fls
+*.cut
+*.fdb_latexmk
+*.synctex.gz

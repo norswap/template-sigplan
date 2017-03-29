@@ -1,0 +1,11 @@
+!(boring | info | message | under | over
+| p "hyperref" & "Token not allowed in a PDF string"
+| "Class acmart Info"
+| "file:line:error style messages enabled"
+| "Excluding.*comment"
+| "Processing.*comment"
+| "Include comment"
+| "comment.cut"
+| "(msharpe)"
+| "]" && !".."
+)
